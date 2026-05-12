@@ -1,24 +1,29 @@
-🎭 Playwright + AI Mastery - Notes - 2x
-﻿
+# Learn Playwright - Batch 2x
 
-Javascript Basics 
-What is Javascript? 
-How JavaScript Engine Works
-How does a V8 engine Works?
-Setup IDE Antigravity / VS code
-AI Coding - OpenCode. / Github Copilot Setup.
-Github Account
-﻿
+This repository contains learning materials, examples, and exercises for Playwright test automation.
 
-What is Javascript? 
-A website is built with three core technologies
-HTML — Structure / Content
-CSS — Styling / Appearance
-JavaScript — Behavior / Interactivity
-Where it runs: Originally designed to run in web browsers, JavaScript now also runs on servers (via Node.js), mobile apps, desktop applications, and even IoT devices.
-Core features: It supports object-oriented, functional, and event-driven programming styles. It's dynamically typed, meaning you don't need to declare variable types explicitly.
-The DOM: JavaScript can manipulate the Document Object Model (DOM), allowing it to dynamically change a webpage's content, structure, and styling in real time without reloading.
-Asynchronous programming: It supports asynchronous operations through callbacks, Promises, and `async/await`, making it efficient for tasks like API calls and file handling.
-Ecosystem: It has a massive ecosystem of libraries and frameworks such as React, Angular, Vue.js (frontend) and Express, Next.js (backend), supported by the npm package manager.
-Universal adoption: JavaScript is the most widely used programming language in the world, supported by all modern browsers and backed by a huge developer community.
-﻿
+## 📁 Repository Structure
+
+- **chapter_01_Basics** - Introduction and basic concepts
+- **chapter_02_basic** - Fundamentals and core examples
+- **chapter_03_basic** - Intermediate concepts (placeholder)
+- **Vscode_shortcut_key.md** - VS Code keyboard shortcuts reference
+
+## 🚀 Getting Started
+
+To get started with Playwright, make sure you have [Node.js](https://nodejs.org/) installed, then run:
+
+```bash
+npm init -y
+npm install @playwright/test
+npx playwright install
+```
+
+## 📝 Useful Links
+
+- [Playwright Documentation](https://playwright.dev/)
+- [Playwright API Reference](https://playwright.dev/docs/api/class-playwright)
+
+---
+
+Happy Testing! 🎭
